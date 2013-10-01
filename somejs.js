@@ -1,0 +1,4 @@
+(function MyFunc()
+{
+  alert("this");
+})();
